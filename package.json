@@ -1,0 +1,23 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "learn algorithm by Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phambaonam/algorithm_Js.git"
+  },
+  "keywords": [
+    "javascript",
+    "algorithm"
+  ],
+  "author": "Doremon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phambaonam/algorithm_Js/issues"
+  },
+  "homepage": "https://github.com/Phambaonam/algorithm_Js#readme"
+}
